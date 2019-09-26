@@ -7,7 +7,7 @@ This is the "U.S. Metro Areas Violent Crime Rates by Type" dataset. Originally p
 
 I’ve created a proof of concept visualization of this data. It's a ... and it shows ...
 
-[![image](https://user-images.githubusercontent.com/68416/65240758-9ef6c980-daff-11e9-9ffa-e35fc62683d2.png)](https://beta.vizhub.com/yyaaa1/5f983cca85a74187ad8b9b467b04be81?edit=files)
+[![image](https://user-images.githubusercontent.com/44675597/65655739-3cb03400-dfeb-11e9-9681-a7d6c6f38142.png)](https://beta.vizhub.com/yyaaa1/5f983cca85a74187ad8b9b467b04be81?edit=files)
 
 (please put a screenshot of one or more visualizations of this dataset you already made, for previous assignments)
 
