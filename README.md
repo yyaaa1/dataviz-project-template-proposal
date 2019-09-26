@@ -5,7 +5,7 @@ This is the "U.S. Metro Areas Violent Crime Rates by Type" dataset. Originally p
 
 ## Prototypes
 
-I’ve created a proof of concept visualization of this data. It's a  and it shows ...
+I’ve created a proof of concept visualization of this data. It's a bar chart  and it shows the relationship between crime rates by type and cities.
 
 [![image](https://user-images.githubusercontent.com/44675597/65655739-3cb03400-dfeb-11e9-9681-a7d6c6f38142.png)](https://beta.vizhub.com/yyaaa1/51d8e4ac85ba43a8b8924ec4ab674892)
 
@@ -15,10 +15,10 @@ I’ve created a proof of concept visualization of this data. It's a  and it sho
 
 The following tasks and questions will drive the visualization and interaction decisions for this project:
 
- * (insert your question or task here) How does the X vary over time?
- * (insert your question or task here) Is there any correlation between X and Y?
- * (insert your question or task here) Are there interesting spatial patterns in X?
- * (insert your question or task here) How many X are there across different Y?
+ * How does overall crime rate vary over time?
+ * Is there any correlation between time and crime rate in each city?
+ * What is the most dangerous area in each year?
+ 
 
 ## Sketches
 
