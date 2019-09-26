@@ -1,14 +1,13 @@
 # Data Visualization Project
 
 ## Data
-
-The data I propose to visualize for my project is ...
+This is the "U.S. Metro Areas Violent Crime Rates by Type" dataset. Originally published at [data.world](https://data.world/carlvlewis/u-s-metro-areas-violent-crime-rates-by-type-1970-2015). 
 
 ## Prototypes
 
 I’ve created a proof of concept visualization of this data. It's a ... and it shows ...
 
-[![image](https://user-images.githubusercontent.com/68416/65240758-9ef6c980-daff-11e9-9ffa-e35fc62683d2.png)](https://beta.vizhub.com/curran/eab039ad1765433cb51aad167d9deae4)
+[![image](https://user-images.githubusercontent.com/68416/65240758-9ef6c980-daff-11e9-9ffa-e35fc62683d2.png)](https://beta.vizhub.com/yyaaa1/5f983cca85a74187ad8b9b467b04be81?edit=files)
 
 (please put a screenshot of one or more visualizations of this dataset you already made, for previous assignments)
 
