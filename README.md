@@ -22,9 +22,10 @@ The following tasks and questions will drive the visualization and interaction d
 
 ## Sketches
 
-(insert one or more hand-drawn sketches of interactive visualizations that you imagine)
-(describe each sketch - how is the data visualized, what are the interactions, and how do these relate to the questions/tasks)
+[![image](https://user-images.githubusercontent.com/44675597/65656505-10e27d80-dfee-11e9-99a0-a05b74976e10.png)]
+This sketche displays the idea on how I will explore the correlation between crime rate in each place and year in my project.
+The color reflects numerical size of crime rate, and there will have a drop down menu for year selection.
 
 ## Open Questions
 
-(describe any fear, uncertainty, or doubt you’re having about the feasibility of implementing the sketched system. For example, “I’m not sure where to get the geographic shapes to build a map from this data” or “I don’t know how to resolve the codes to meaningful names” … Feel free to delete this section if you’re confident.)
+I’m not sure how to create a map to realize the sketche above. 
