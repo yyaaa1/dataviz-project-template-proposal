@@ -26,7 +26,7 @@ The following tasks and questions will drive the visualization and interaction d
 This sketche displays the idea on how I will explore the correlation between crime rate in each place and year in my project.
 The color reflects numerical size of crime rate, and there will have a drop down menu for year selection.
 
-## ideas for interaction
+## Ideas for interaction
 Follow the idea of [linked line chart & choropleth](http://curran.github.io/model/examples/d3LinkedChoropleth/), I will design a crime map that can illustrate the relation between crime rate and states with changing of the year. 
 
 ## Schedule of Deliverables
