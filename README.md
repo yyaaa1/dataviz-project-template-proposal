@@ -1,7 +1,7 @@
 # Data Visualization Project
 
 ## Data
-This is the "U.S. Metro Areas Violent Crime Rates by Type" dataset. Originally published at [data.world](https://data.world/carlvlewis/u-s-metro-areas-violent-crime-rates-by-type-1970-2015). 
+This is the "U.S. Metro Areas Violent Crime Rates by Type" dataset. Originally published at [data.world](https://data.world/carlvlewis/u-s-metro-areas-violent-crime-rates-by-type-1970-2015). Datasets can be found [here](https://gist.github.com/yyaaa1/2a71bdf8de2d1fb6bcf02ee19e2d7322).
 
 ## Prototypes
 
