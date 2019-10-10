@@ -39,7 +39,7 @@ estimated delivery time: 10/6
 
 
 tasks:
-aggregate data based on time and department. (status:completed, run crime_rate_vs_year.py to aggregate data)
+aggregate data based on time and department. (status: completed, run crime_rate_vs_year.py to aggregate data)
 
 2. Visualize graphes for question 1:
 
@@ -47,7 +47,7 @@ aggregate data based on time and department. (status:completed, run crime_rate_v
 estimated delivery time: 10/12
 
 tasks:
-based on the aggerated data, draw a graph that displays the relation between overall crime rate and year. (status:completed, used crime_rate_vs_years.csv to visualize this relationship)
+based on the aggerated data, draw a graph that displays the relation between overall crime rate and year. (status: completed, used crime_rate_vs_years.csv to visualize this relationship. The graph can be found [here](https://beta.vizhub.com/yyaaa1/a975c64447644bf693f5bdf514303782?edit=files))
 
 3. Visualize graphes for question 2:
 
