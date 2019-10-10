@@ -39,17 +39,15 @@ estimated delivery time: 10/6
 
 
 tasks:
-aggerate data based on time and department.
+aggregate data based on time and department. (status:completed, run crime_rate_vs_year.py to aggregate data)
 
 2. Visualize graphes for question 1:
 
 
 estimated delivery time: 10/12
 
-
-
 tasks:
-based on the aggerated data, draw a graph that displays the relation between overall crime rate and year.
+based on the aggerated data, draw a graph that displays the relation between overall crime rate and year. (status:completed, used crime_rate_vs_years.csv to visualize this relationship)
 
 3. Visualize graphes for question 2:
 
