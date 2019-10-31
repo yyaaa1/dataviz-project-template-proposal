@@ -31,5 +31,5 @@ Follow the idea of [linked line chart & choropleth](http://curran.github.io/mode
 [![image](https://user-images.githubusercontent.com/44675597/67910389-e50c6780-fb58-11e9-8c51-06775c4d197f.png)](https://beta.vizhub.com/yyaaa1/9bdc1e9ed97d44809775cad116c048cd)
 
 ## Future Work
-Adding a dropdown menu in the crime map so users can view the distribution of crimes in different years. 
+Adding a dropdown menu in the crime map so users can view the distribution of crimes in different year. 
 
