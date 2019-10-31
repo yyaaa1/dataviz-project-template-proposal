@@ -8,8 +8,8 @@ This is the "U.S. Metro Areas Violent Crime Rates by Type" dataset. Originally p
 The following tasks and questions will drive the visualization and interaction decisions for this project:
 
  * How does overall crime rate vary over time?
- * Is there any correlation between time and crime rate in each city?
- * What is the most dangerous area in each year?
+ * What's the relationship between each type of crimes and the time?
+ * Where is the most dangerous place in US?
 
 
 
