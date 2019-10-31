@@ -3,13 +3,10 @@
 ## Data
 This is the "U.S. Metro Areas Violent Crime Rates by Type" dataset. Originally published at [data.world](https://data.world/carlvlewis/u-s-metro-areas-violent-crime-rates-by-type-1970-2015). Datasets can be found [here](https://gist.github.com/yyaaa1/2a71bdf8de2d1fb6bcf02ee19e2d7322).
 
-## Prototypes
 
-I’ve created a proof of concept visualization of this data. It's a bar chart  and it shows the relationship between crime rates by type and cities.
 
 [![image](https://user-images.githubusercontent.com/44675597/65655739-3cb03400-dfeb-11e9-9681-a7d6c6f38142.png)](https://beta.vizhub.com/yyaaa1/51d8e4ac85ba43a8b8924ec4ab674892)
 
-(please put a screenshot of one or more visualizations of this dataset you already made, for previous assignments)
 
 ## Questions & Tasks
 
@@ -29,12 +26,15 @@ The color reflects numerical size of crime rate, and there will have a drop down
 ## Ideas for interaction
 Follow the idea of [linked line chart & choropleth](http://curran.github.io/model/examples/d3LinkedChoropleth/), I will design a crime map that can illustrate the relation between crime rate and states with changing of the year. 
 
-## Schedule of Deliverables
-1. Reduction of data:
+## Completed Work
+1.
+[![image](https://user-images.githubusercontent.com/44675597/67910387-e50c6780-fb58-11e9-9c88-a847ddee85a3.png)](https://beta.vizhub.com/yyaaa1/a975c64447644bf693f5bdf514303782)
 
+2.
+[![image](https://user-images.githubusercontent.com/44675597/67910388-e50c6780-fb58-11e9-9818-87a63eed1181.png)](https://beta.vizhub.com/yyaaa1/c4ee75acfe7845beba9fd6840bc8be40)
 
-
-estimated delivery time: 10/6
+3.
+[![image](https://user-images.githubusercontent.com/44675597/67910389-e50c6780-fb58-11e9-8c51-06775c4d197f.png)](https://beta.vizhub.com/yyaaa1/9bdc1e9ed97d44809775cad116c048cd)
 
 
 
