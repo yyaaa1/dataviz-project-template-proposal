@@ -11,14 +11,7 @@ The following tasks and questions will drive the visualization and interaction d
  * Is there any correlation between time and crime rate in each city?
  * What is the most dangerous area in each year?
 
-## Sketches
 
-[![image](https://user-images.githubusercontent.com/44675597/65656505-10e27d80-dfee-11e9-99a0-a05b74976e10.png)]
-This sketche displays the idea on how I will explore the correlation between crime rate in each place and year in my project.
-The color reflects numerical size of crime rate, and there will have a drop down menu for year selection.
-
-## Ideas for interaction
-Follow the idea of [linked line chart & choropleth](http://curran.github.io/model/examples/d3LinkedChoropleth/), I will design a crime map that can illustrate the relation between crime rate and states with changing of the year. 
 
 ## Completed Work
 1. The first visualization shows the relationship between year and overall crime rate.
